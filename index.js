@@ -23,7 +23,7 @@ let createTimeInEvent = function(dateStamp){
         hour: parseInt(hour, 10),
         date,
     })
-
+    
     return this
 }
 
